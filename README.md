@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hackerboy01.hackerboy01)
 
-![](https://github-readme-stats.vercel.app/api?username=hackerboy01&theme=graywhite&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=hackerboy01&theme=default_repocard&show_icons=true)
 
 - 🔭 I’m currently working on Kubernetes.
 - 🌱 I’m currently learning containerd.
