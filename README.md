@@ -3,7 +3,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=hackerboy01&theme=graywhite&show_icons=true)
 
 - 🔭 I’m currently working on Kubernetes.
-- 🌱 I’m currently learning containerd.
 - 📫 How to reach me: penglei0901@163.com / penglei031303@gmail.com
 
 <!--
